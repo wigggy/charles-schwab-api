@@ -1,4 +1,4 @@
-package com.github.wi110r.com.github.wi110r.charlesschwab_api.data_objs
+package com.github.wi110r.charlesschwab_api.data_objs
 
 
 data class OptionChain(

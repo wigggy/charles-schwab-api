@@ -1,4 +1,4 @@
-package com.github.wi110r.com.github.wi110r.charlesschwab_api.auth.responses
+package com.github.wi110r.charlesschwab_api.auth.responses
 
 internal data class RefreshTokenResponse(
     val expires_in: Int,

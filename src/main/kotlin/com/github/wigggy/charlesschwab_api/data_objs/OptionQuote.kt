@@ -1,6 +1,4 @@
-package com.github.wi110r.com.github.wi110r.charlesschwab_api.data_objs
-
-import com.github.wi110r.com.github.wi110r.charlesschwab_api.data_objs.responses.Reference
+package com.github.wi110r.charlesschwab_api.data_objs
 
 
 /** All dollar values are multiplied by 100 already. No need to x100 ANY values for this quote */

@@ -1,4 +1,4 @@
-package com.github.wi110r.com.github.wi110r.charlesschwab_api.tools
+package com.github.wi110r.charlesschwab_api.tools
 
 import java.time.*
 import java.time.format.DateTimeFormatter

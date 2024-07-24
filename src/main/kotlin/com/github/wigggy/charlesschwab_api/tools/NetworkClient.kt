@@ -1,11 +1,7 @@
-package com.github.wi110r.com.github.wi110r.charlesschwab_api.tools
+package com.github.wi110r.charlesschwab_api.tools
 
 import okhttp3.*
-import okhttp3.MediaType.Companion.toMediaType
-import okhttp3.RequestBody.Companion.toRequestBody
-import okhttp3.ResponseBody.Companion.toResponseBody
 import java.util.concurrent.TimeUnit
-import com.github.wi110r.com.github.wi110r.charlesschwab_api.tools.Log as log
 
 
 internal object NetworkClient {

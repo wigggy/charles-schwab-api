@@ -1,10 +1,9 @@
-package com.github.wi110r.com.github.wi110r.charlesschwab_api.tools
+package com.github.wi110r.charlesschwab_api.tools
 
 import java.io.File
 import java.io.FileWriter
 import java.io.InputStream
 import java.nio.charset.Charset
-import java.nio.file.Paths
 
 internal object FileHelper {
 

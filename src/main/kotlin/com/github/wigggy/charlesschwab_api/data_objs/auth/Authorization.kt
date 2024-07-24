@@ -1,4 +1,4 @@
-package com.github.wi110r.charlesschwab_api.data_objs.auth
+package com.github.wigggy.charlesschwab_api.data_objs.auth
 
 data class Authorization (
     val key: String = "",

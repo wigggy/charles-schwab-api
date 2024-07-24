@@ -1,9 +1,9 @@
-package com.github.wi110r.com.github.wi110r.charlesschwab_api.data_objs.responses
+package com.github.wi110r.charlesschwab_api.data_objs.responses
 
-import com.github.wi110r.com.github.wi110r.charlesschwab_api.data_objs.Option
-import com.github.wi110r.com.github.wi110r.charlesschwab_api.data_objs.OptionChain
-import com.github.wi110r.com.github.wi110r.charlesschwab_api.data_objs.OptionDeliverable
-import com.github.wi110r.com.github.wi110r.charlesschwab_api.data_objs.Underlying
+import com.github.wi110r.charlesschwab_api.data_objs.Option
+import com.github.wi110r.charlesschwab_api.data_objs.OptionChain
+import com.github.wi110r.charlesschwab_api.data_objs.OptionDeliverable
+import com.github.wi110r.charlesschwab_api.data_objs.Underlying
 
 internal data class OptionChainResponse(
     val symbol: String,
