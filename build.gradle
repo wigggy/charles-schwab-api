@@ -21,16 +21,13 @@ dependencies {
 test {
     useJUnitPlatform()
 }
-kotlin {
-    jvmToolchain(8)
-}
 
 publishing {
     publications {
         maven(MavenPublication) {
             groupId 'com.github.wigggy'
             artifactId 'charles-schwab-api'
-            version '1.0.2'
+            version '1.0'
             from components.java
         }
     }

@@ -1,4 +1,4 @@
-package com.github.wigggy.charlesschwab_api.tools
+package com.github.wigggy.charles_schwab_api.tools
 
 import com.google.gson.Gson
 

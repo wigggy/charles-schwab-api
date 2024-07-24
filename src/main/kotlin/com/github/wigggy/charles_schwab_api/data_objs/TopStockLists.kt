@@ -1,4 +1,4 @@
-package com.github.wigggy.charlesschwab_api.data_objs
+package com.github.wigggy.charles_schwab_api.data_objs
 
 data class TopStockLists(
     val nasdaq: List<String>,

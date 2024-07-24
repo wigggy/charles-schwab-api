@@ -1,4 +1,4 @@
-package com.github.wigggy.charlesschwab_api.auth.responses
+package com.github.wigggy.charles_schwab_api.auth.responses
 
 internal data class AccessTokenResponse(
     val expires_in: Int,
