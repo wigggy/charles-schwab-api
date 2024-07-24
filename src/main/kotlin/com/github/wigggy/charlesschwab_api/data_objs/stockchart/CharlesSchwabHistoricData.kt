@@ -1,4 +1,4 @@
-package com.github.wi110r.charlesschwab_api.data_objs.stockchart
+package com.github.wigggy.charlesschwab_api.data_objs.stockchart
 
 import java.util.*
 

@@ -1,4 +1,4 @@
-package com.github.wi110r.charlesschwab_api.tools
+package com.github.wigggy.charlesschwab_api.tools
 
 import okhttp3.*
 import java.util.concurrent.TimeUnit

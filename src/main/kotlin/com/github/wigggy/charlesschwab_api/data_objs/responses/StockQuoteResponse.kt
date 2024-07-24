@@ -1,6 +1,6 @@
-package com.github.wi110r.charlesschwab_api.data_objs.responses
+package com.github.wigggy.charlesschwab_api.data_objs.responses
 
-import com.github.wi110r.charlesschwab_api.data_objs.StockQuote
+import com.github.wigggy.charlesschwab_api.data_objs.StockQuote
 import com.google.gson.annotations.SerializedName
 
 internal data class StockQuoteResponse(

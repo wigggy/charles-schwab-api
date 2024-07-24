@@ -1,4 +1,4 @@
-package com.github.wi110r.charlesschwab_api.data_objs
+package com.github.wigggy.charlesschwab_api.data_objs
 
 
 /** All dollar values are multiplied by 100 already. No need to x100 ANY values for this quote */
